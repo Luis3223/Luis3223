@@ -4,75 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Luis Angel Hernandez | LuisAngelSystem</title>
-<style>
-  /* ── GitHub dark mode ── */
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    background: #0d1117;
-    color: #c9d1d9;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.6;
-  }
-  .page {
-    max-width: 860px;
-    margin: 0 auto;
-    padding: 32px 24px 80px;
-  }
 
-  /* ── headings ── */
-  h1 { font-size: 2em; font-weight: 600; margin-bottom: 16px; color: #e6edf3; }
-  h2 { font-size: 1.4em; font-weight: 600; margin: 32px 0 12px; color: #e6edf3;
-       padding-bottom: 6px; border-bottom: 1px solid #21262d; }
-
-  p  { margin-bottom: 12px; }
-  a  { color: #58a6ff; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  br { display: block; content: ""; margin: 2px 0; }
-
-  /* ── badges row ── */
-  .badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
-  .badges img { height: 28px; }
-
-  /* ── about list ── */
-  .about-list { list-style: none; padding: 0; }
-  .about-list li { margin-bottom: 10px; font-size: 1rem; }
-
-  /* ── skillicons ── */
-  .skills img { max-width: 100%; }
-
-  /* ── projects table ── */
-  .proj-table { width: 100%; border-collapse: collapse; margin-bottom: 8px; }
-  .proj-table td {
-    width: 25%; padding: 8px; vertical-align: top; text-align: center;
-  }
-  .proj-thumb {
-    width: 100%; aspect-ratio: 16/10; object-fit: cover;
-    border-radius: 6px; border: 1px solid #30363d;
-    display: block; margin-bottom: 8px;
-    transition: opacity .2s;
-  }
-  .proj-thumb:hover { opacity: .85; }
-  .proj-btns { display: flex; justify-content: center; gap: 6px; flex-wrap: wrap; }
-  .proj-btns img { height: 24px; }
-
-  /* ── stats table ── */
-  .stats-table { width: 100%; border-collapse: collapse; }
-  .stats-table td { padding: 8px; vertical-align: top; }
-  .stats-table img { max-width: 100%; border-radius: 4px; }
-
-  /* ── trophy ── */
-  .trophy { margin-top: 16px; }
-  .trophy img { max-width: 100%; }
-
-  /* ── cert section ── */
-  .cert-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
-  .cert-badges img { height: 28px; }
-
-  /* ── scrollbar ── */
-  ::-webkit-scrollbar { width: 8px; background: #0d1117; }
-  ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
-</style>
 </head>
 <body>
 <div class="page">
