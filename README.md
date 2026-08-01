@@ -28,10 +28,10 @@
 <!-- ══════════ SOBRE MÍ ══════════ -->
 <h2>Sobre mí 😃</h2>
 <ul class="about-list">
-  <li>🎓 ESTUDIANTE DE <strong>INGENIERÍA DE SISTEMAS</strong> — Corporación Unificada Nacional (CUN), Sincelejo</li>
+  <li>🎓 INGENIERO <strong> DE SISTEMAS</strong> — Corporación Unificada Nacional (CUN), Sincelejo</li>
   <li>🛡️ Certificado por <strong>Google en Ciberseguridad e Inteligencia Artificial</strong></li>
   <li>💻 Apasionado por la convergencia entre la <strong>Ciberseguridad y la IA</strong> — integrando seguridad e inteligencia en cada línea de código</li>
-  <li>📝 Roles: desarrollador... estudiante investigador... creador de proyectos interactivos... y en un futuro quién sabe ☺️</li>
+  <li>📝 Roles: desarrollador de software ,  investigador... creador de proyectos interactivos... y Analista de ciberseguridad ☺️</li>
   <li>📫 Contacto: <strong><a href="https://wa.me/573225062876">WhatsApp · 322 506 2876</a></strong></li>
 </ul>
 
